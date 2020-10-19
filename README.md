@@ -1,3 +1,6 @@
+
+
+
 # Project 2 - *SimpleTweet*
 
 **SimpleTweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
@@ -34,6 +37,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 http://g.recordit.co/V8rHhsTJUA.gif
+
+Here's Twitter part 2 gif of user stories:
+
+http://g.recordit.co/ZM4eAoH3aH.gif
 
 GIF created with [Peek](https://github.com/phw/peek).
 
