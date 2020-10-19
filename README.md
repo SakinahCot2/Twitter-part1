@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='SimpleTweet.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://g.recordit.co/V8rHhsTJUA.gif
 
 GIF created with [Peek](https://github.com/phw/peek).
 
