@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sakinah/SimpleTweet/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
+            "outputFile": "/Users/sakinah/Twitter-part1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
                     "source": "/Users/sakinah/.gradle/caches/transforms-2/files-2.1/a16db5b44425ecffd4781fb791b0f708/appcompat-1.2.0/res/values-zh-rTW/values-zh-rTW.xml",
